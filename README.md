@@ -96,7 +96,7 @@ See [deployment documentation](./docs/deployment.md) for more details.
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| `NEXT_PUBLIC_API_URL` | Backend API URL | `http://localhost:8000` |
+| `NEXT_PUBLIC_API_URL` | Backend API URL | `http://localhost:5000` |
 | `NEXT_PUBLIC_APP_URL` | Frontend App URL | `http://localhost:3000` |
 
 ## Browser Support
@@ -106,14 +106,3 @@ See [deployment documentation](./docs/deployment.md) for more details.
 - Safari (latest)
 - Edge (latest)
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/my-feature`
-3. Commit changes: `git commit -am 'Add my feature'`
-4. Push to branch: `git push origin feature/my-feature`
-5. Submit a pull request
-
-## License
-
-[MIT License](LICENSE)
